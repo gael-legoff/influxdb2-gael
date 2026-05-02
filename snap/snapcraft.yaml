@@ -1,5 +1,5 @@
 name: influxdb2-gael
-version: "v2.8.0"
+version: "v2.9.0"
 base: core24
 summary: InfluxDB2
 description: |
@@ -35,5 +35,5 @@ parts:
 
   influxdb:
     plugin: dump
-    source: https://dl.influxdata.com/influxdb/releases/v2.8.0/influxdb2_2.8.0-1_amd64.deb
+    source: https://dl.influxdata.com/influxdb/releases/influxdb2_2.9.0-1_amd64.deb
     source-type: deb
